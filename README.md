@@ -1,33 +1,26 @@
-<div align="center">
-# **Hi🙋‍♂️, I'm Prosper Akoma**
+# Hi👋, I'm Prosper Akoma 
+
+🚀 Entrepreneur turned data analyst. Built a business to 300+ customers; now letting the numbers tell the story. 📊
 
 ---
-
-  <br>
-
-📈Aspiring Business Analyst | 🤖Data Analytics Enthusiast | 🚀Catalyst
-
-</div>
-
----
-
 
 ## 🧠 What I Do
 
 I turn messy, raw data into **clean, meaningful insights** that drive real decisions.  
-From scrubbing dirty datasets to building sharp analysis .
+From scrubbing dirty datasets to building sharp analyses!
 
 ---
 
 ## 👨‍💻 About Me
 
+- 🎓 English Studies Graduate blending Education & Business thinking
 - 📊 Currently studying **Data Analytics** at Codar Tech Institute, Lagos
 - 🧹 Passionate about **cleaning data** and uncovering patterns others miss
 - 💼 Sales & Marketing Intern — applying data to real marketing decisions
 - 🏨 Former Duty Manager — led teams and streamlined operations with data
 - 👜 Built a business from scratch to **300+ customers & 50% profit growth**
 - 🎓 BA English Studies — University of Port Harcourt *(Second Class Upper)*
-- 🌍 Based in Pluto😉
+- 🌍 Based in Lagos, Nigeria
 
 ---
 
