@@ -1,13 +1,13 @@
 #                      Hi, I'm Prosper Akoma 👋
 
-🚀 Entrepreneur turned data analyst. Built a business to 300+ customers; now letting the numbers tell the story. 📊
+**Aspiring Business Analyst 📈| Data Analytics Enthusiast🤖 |Entrepreneur🚀**
 
 ---
 
 ## 🧠 What I Do
 
 I turn messy, raw data into **clean, meaningful insights** that drive real decisions.  
-From scrubbing dirty datasets to building sharp analyses — I make data work.
+From scrubbing dirty datasets to building sharp analyses .
 
 ---
 
