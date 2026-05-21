@@ -13,14 +13,11 @@ From scrubbing dirty datasets to building sharp analyses!
 
 ## 👨‍💻 About Me
 
-- 🎓 English Studies Graduate blending Education & Business thinking
-- 📊 Currently studying **Data Analytics** at Codar Tech Institute, Lagos
-- 🧹 Passionate about **cleaning data** and uncovering patterns others miss
-- 💼 Sales & Marketing Intern — applying data to real marketing decisions
-- 🏨 Former Duty Manager — led teams and streamlined operations with data
+- 🎓 English Studies Graduate blending Education and Business thinking
+- 🧹 Crazy about **cleaning data** and uncovering patterns others miss
+- 🧑‍🤝‍🧑 Open to collaborating with other Data Analysts
 - 👜 Built a business from scratch to **300+ customers & 50% profit growth**
-- 🎓 BA English Studies — University of Port Harcourt *(Second Class Upper)*
-- 🌍 Based in Lagos, Nigeria
+- 🦇 Just so you know, I make **words come alive and walk!**
 
 ---
 
