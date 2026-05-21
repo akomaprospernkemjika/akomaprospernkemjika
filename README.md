@@ -1,5 +1,5 @@
 <div align="center">
-#                      Hi🙋‍♂️, I'm Prosper Akoma
+# **Hi🙋‍♂️, I'm Prosper Akoma**
 
   <br>
 
