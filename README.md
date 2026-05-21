@@ -1,6 +1,7 @@
 #                      Hi, I'm Prosper Akoma 👋
 
-**Aspiring Business Analyst 📈| Data Analytics Enthusiast🤖 |Entrepreneur🚀**
+**📈Aspiring Business Analyst | 🤖Data Analytics Enthusiast | 💼Expert Bag Maker | 🦇Savant**
+
 
 ---
 
