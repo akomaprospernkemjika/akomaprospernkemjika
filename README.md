@@ -3,7 +3,8 @@
 
   <br>
 
-**📈Aspiring Business Analyst | 🤖Data Analytics Enthusiast | 🚀Catalyst**
+📈Aspiring Business Analyst | 🤖Data Analytics Enthusiast | 🚀Catalyst
+
 </div>
 
 ---
