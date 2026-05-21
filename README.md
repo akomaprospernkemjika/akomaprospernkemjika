@@ -1,4 +1,4 @@
-# Hi, I'm Prosper Akoma 👋
+#                      Hi, I'm Prosper Akoma 👋
 
 🚀 Entrepreneur turned data analyst. Built a business to 300+ customers; now letting the numbers tell the story. 📊
 
