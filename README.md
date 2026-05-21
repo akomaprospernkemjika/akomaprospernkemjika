@@ -1,6 +1,6 @@
 <div align="center">
 # **Hi🙋‍♂️, I'm Prosper Akoma**
-
+---
   <br>
 
 📈Aspiring Business Analyst | 🤖Data Analytics Enthusiast | 🚀Catalyst
