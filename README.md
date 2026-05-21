@@ -2,13 +2,13 @@
 
 **📈Aspiring Business Analyst | 🤖Data Analytics Enthusiast | 💼Expert Bag Maker | 🦇Savant**
 
-
 ---
+
 
 ## 🧠 What I Do
 
 I turn messy, raw data into **clean, meaningful insights** that drive real decisions.  
-From scrubbing dirty datasets to building sharp analyses .
+From scrubbing dirty datasets to building sharp analysis .
 
 ---
 
