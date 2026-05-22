@@ -17,7 +17,7 @@ From scrubbing dirty datasets to building sharp analyses!
 - 🧹 Crazy about **cleaning data** and uncovering patterns others miss
 - 🧑‍🤝‍🧑 Open to collaborating with other Data Analysts
 - 👜 Built a business from scratch to **300+ customers & 50% profit growth**
-- 🦇 Just so you know, I make **words come alive and walk!**
+- 🦇 Just so you know, I make **numbers come alive and walk!**
 
 ---
 
