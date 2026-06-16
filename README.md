@@ -1,54 +1,86 @@
-# Hi👋, I'm Prosper Akoma 
+<div align="center">
 
-🚀 Entrepreneur turned data analyst. Built a business to 300+ customers; now letting the numbers tell the story. 📊
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5C7A8C&center=true&vCenter=true&width=500&lines=Business+Analyst;Data+Storyteller;Commercial+Strategy+Analyst)](https://git.io/typing-svg)
 
----
+# Prosper Nkemjika Akoma
 
-## 🧠 What I Do
+**Turning business complexity into clear, data-driven decisions.**
 
-I turn messy, raw data into **clean, meaningful insights** that drive real decisions.  
-From scrubbing dirty datasets to building sharp analyses!
+[![Email](https://img.shields.io/badge/Email-akomawole%40gmail.com-4A6572?style=flat-square&logo=gmail&logoColor=white)](mailto:akomawole@gmail.com)
+&nbsp;
+![Lagos, Nigeria](https://img.shields.io/badge/Lagos%2C%20Nigeria-4A6572?style=flat-square&logo=googlemaps&logoColor=white)
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 English Studies Graduate blending Education and Business thinking
-- 🧹 Crazy about **cleaning data** and uncovering patterns others miss
-- 🧑‍🤝‍🧑 Open to collaborating with other Data Analysts
-- 👜 Built a business from scratch to **300+ customers & 50% profit growth**
-- 🦇 Just so you know, I make **numbers come alive and walk!**
+</div>
 
 ---
 
-## 🛠️ Skills & Tools
+## About Me
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-FF6B6B?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-F7931E?style=for-the-badge)
-![Financial Reporting](https://img.shields.io/badge/Financial%20Reporting-0052CC?style=for-the-badge)
-![Marketing Strategy](https://img.shields.io/badge/Marketing%20Strategy-8E44AD?style=for-the-badge)
-![Project Management](https://img.shields.io/badge/Project%20Management-2ECC71?style=for-the-badge)
+I bridge the gap between raw data and real business decisions. My path here is unusual — I built a business from zero to **300+ customers with 50% profit growth in four months**, ran hotel operations, and managed cross-functional teams. That background gave me something most analysts don't have: a deep instinct for *what the numbers mean for the business*, not just what they show.
 
----
+Now I apply that instinct through data analytics — cleaning datasets, modelling performance, and translating findings into recommendations that move strategy forward. My recent analysis of a TransVolt Bikes dataset surfaced a key campaign insight: **single professionals aged 35–44** represent the highest-potential customer segment for targeted growth campaigns.
 
-## 🔍 What You'll Find Here
-
-- 🧹 **Cleaned datasets** — raw data transformed into structured, analysis-ready files
-- 📈 **Data analysis projects** — insights extracted from real-world business data
-- 📊 **Visual reports** — clear storytelling through charts and summaries
-- 🚀 **Growing portfolio** — new projects added regularly as I level up
+I'm building toward a commercial analytics role in **FMCG** or **Banking & Financial Services** — sectors where data literacy and business acumen together create the most impact.
 
 ---
 
-## 📈 Currently
+## What I Work On
 
-- 🔢 Deepening my **data analytics** skillset
-- 🧪 Working on real-world datasets to build portfolio projects
-- 📣 Combining business experience with data to solve practical problems
+- 📦 **Sales & Commercial Performance** — revenue trends, segment analysis, distributor performance
+- 🏦 **Financial Analytics** — reporting frameworks, margin analysis, growth modelling
+- 🛒 **FMCG & Consumer Goods** — quarterly performance, product-level insights, campaign targeting
+- 🧹 **Data Cleaning & Enrichment** — turning messy, unreliable data into analysis-ready datasets
+- 📊 **Dashboard Storytelling** — building visual reports that answer *so what?* before anyone asks
 
 ---
 
-## 📬 Let's Connect
+## Tools & Skills
 
-[![Email](https://img.shields.io/badge/Email-akomawole@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akomawole@gmail.com)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-3D6B5A?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-5C6E7E?style=flat-square&logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-4A6572?style=flat-square&logo=microsoft&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6B7B8D?style=flat-square)
+![Sales Analytics](https://img.shields.io/badge/Sales%20Analytics-5C7A6B?style=flat-square)
+![Financial Reporting](https://img.shields.io/badge/Financial%20Reporting-4A5568?style=flat-square)
+![Business Strategy](https://img.shields.io/badge/Business%20Strategy-6B6B8D?style=flat-square)
+![Marketing Strategy](https://img.shields.io/badge/Marketing%20Strategy-5C6B7A?style=flat-square)
+
+---
+
+## Featured Projects
+
+### 🚲 TransVolt Bikes — Customer Segment & Campaign Analysis
+> *Excel | Demographic segmentation | Business recommendations*
+
+Analysed customer behavioural and demographic data to identify the highest-value audience for growth campaigns. Key finding: **single professionals aged 35–44** show the strongest conversion potential and should be the primary target for future marketing investment.
+
+---
+
+### 🌍 World Bank WDI — Global Development Indicators
+> *Excel | Power Query | Correlation analysis | Cross-country ranking*
+
+Reshaped and analysed World Bank development data across multiple countries. Built correlation models and country rankings to surface patterns in economic and social indicators — published with a full methodology README.
+
+---
+
+### 📦 Meridian Consumer Goods Nigeria — Quarterly Sales Performance
+> *Excel | SUMIFS / COUNTIFS / AVERAGEIFS | Q1–Q4 analysis*
+
+End-to-end analysis of a large FMCG dataset covering all four quarters. Cleaned and enriched the raw data, then built quarterly performance summaries identifying trends in revenue, volume, and regional distribution — structured to support business decision-making.
+
+---
+
+## Currently
+
+- 📊 Advancing in **Power BI** — building dashboards that go beyond visuals to drive decisions
+- 🏭 Deepening expertise in **FMCG and banking analytics** use cases
+- 🗂️ Expanding portfolio with sector-specific projects and real-world datasets
+- 🤝 Open to collaborating on commercial analytics, sales performance, or business intelligence work
+
+---
+
+<div align="center">
+
+*"The goal isn't just clean data. It's the decision that follows."*
+
+</div>
