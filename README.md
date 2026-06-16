@@ -1,4 +1,22 @@
-and real business decisions. My path here is unusual — I built a business from zero to **300+ customers with 50% profit growth in four months**, ran hotel operations, and managed cross-functional teams. That background gave me something most analysts don't have: a deep instinct for *what the numbers mean for the business*, not just what they show.
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5C7A8C&center=true&vCenter=true&width=500&lines=Business+Analyst;Data+Storyteller;Commercial+Strategy+Analyst)](https://git.io/typing-svg)
+
+# Prosper Nkemjika Akoma
+
+**I don't just read numbers. I make them come alive and walk.**
+
+[![Email](https://img.shields.io/badge/akomawole@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akomawole@gmail.com)
+&nbsp;
+![Lagos, Nigeria](https://img.shields.io/badge/Lagos%2C%20Nigeria-4A6572?style=flat-square&logo=googlemaps&logoColor=white)
+
+</div>
+
+---
+
+## About Me
+
+I bridge the gap between raw data and real business decisions. My path here is unusual — I built a business from zero to **300+ customers with 50% profit growth in four months**, ran hotel operations, and managed cross-functional teams. That background gave me something most analysts don't have: a deep instinct for *what the numbers mean for the business*, not just what they show.
 
 Now I apply that instinct through data analytics — cleaning datasets, modelling performance, and translating findings into recommendations that move strategy forward. My recent analysis of a TransVolt Bikes dataset surfaced a key campaign insight: **single professionals aged 35–44** represent the highest-potential customer segment for targeted growth campaigns.
 
