@@ -14,11 +14,11 @@
 
 ---
 
-## About Me
+## About 
 
-I bridge the gap between raw data and real business decisions. My path here is unusual — I built a business from zero to **300+ customers with 50% profit growth in four months**, ran hotel operations, and managed cross-functional teams. That background gave me something most analysts don't have: a deep instinct for *what the numbers mean for the business*, not just what they show.
+Hi, I'm Prosper! I have an entrepreneurial background and hold a Bachelor of Art (Education) degree in English Studies from University of Port Harcourt. My path here is unusual - I built a business from zero to **300+ customers with 50% profit growth** in four months, ran hotel operations, and managed cross-functional teams. That background gave me something most analysts don't have: a deep instinct for what the numbers mean for business, not just what they show.
 
-Now I apply that instinct through data analytics — cleaning datasets, modelling performance, and translating findings into recommendations that move strategy forward. My recent analysis of a TransVolt Bikes dataset surfaced a key campaign insight: **single professionals aged 35–44** represent the highest-potential customer segment for targeted growth campaigns.
+Now I apply that instinct through data analytics - cleaning datasets, modelling performance, and translating findings into recommendations that move strategy forward. My recent analysis of a TransVolt Bikes dataset surfaced a key campaign insight: **single professionals aged 35–44** represent the highest-potential customer segment for targeted growth campaigns.
 
 I'm building toward a commercial analytics role in **FMCG** or **Banking & Financial Services** — sectors where data literacy and business acumen together create the most impact.
 
